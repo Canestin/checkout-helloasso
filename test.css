@@ -1,0 +1,19 @@
+button {
+	padding: 10px 25px;
+	background-color: aquamarine;
+	border: 1px solid dotted;
+}
+div {
+	width: 150px;
+	height: 150px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	background-color: bisque;
+	margin: 250px auto;
+	padding: 50px;
+}
+
+input {
+	height: 35px;
+}
